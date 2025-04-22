@@ -3,7 +3,7 @@
 "type": "drupal-custom-module",
 "description": "Generates block with login link redirects user back to current page",
 "keywords": ["Drupal", "login_current_page"],
-"license": "GPL-2.0+",
+"license": "GPL-3.0+",
 "authors": [
 {
 "name": "Rob Carr",
