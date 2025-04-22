@@ -1,0 +1,7 @@
+name: 'Login Current Page'
+type: module
+description: 'Returns user to current page after login'
+package: Custom
+core_version_requirement: ^10 || ^11
+dependencies:
+  - drupal:block
