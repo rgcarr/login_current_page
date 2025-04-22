@@ -1,0 +1,14 @@
+{
+"name": "rgcarr/login_current_page",
+"type": "drupal-custom-module",
+"description": "Generates block with login link redirects user back to current page",
+"keywords": ["Drupal", "login_current_page"],
+"license": "GPL-2.0+",
+"authors": [
+{
+"name": "Rob Carr",
+"email": "rob@cognimatic.com"
+}
+],
+"require": {}
+}
